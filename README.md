@@ -1,7 +1,7 @@
 
 # **Training Center**
 
-This is a Springboot Project for running the Traini8 MVP, that manages a registry of government-funded training centers.
+This is a Springboot Project for running the application, that manages a registry of government-funded training centers.
 
 
 ### **Project Structure**
